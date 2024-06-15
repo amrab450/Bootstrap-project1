@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(38,113,235)"
+   }
+h1{
+  color:goldenrod;
+}h2{
+   color:blueviolet;
+}
+h3{
+   color:blueviolet;
+}
+p{
+   color:red;
+}
+table{
+   color:green;
+   
+}
+div {
+   background-color: brown;
+   border-style: solid;
+   border-color: brown;
+   border-radius: 5px;
+}
+
+
+ 
+.shadow-text {
+   text-shadow:blue 1px 1px
+}
+#large-paragraph{
+   font-size:20px
+}
+
+ol{
+   font-size: 50px;
+ 
+   color:green;
+
+}
